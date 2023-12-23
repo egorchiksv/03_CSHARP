@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GeekBrains\\03_CSharp\\lesson1\\Task1\\Task1.csproj": {}
+    "D:\\GeekBrains\\03_CSharp\\lesson1\\task1\\Task1.csproj": {}
   },
   "projects": {
-    "D:\\GeekBrains\\03_CSharp\\lesson1\\Task1\\Task1.csproj": {
+    "D:\\GeekBrains\\03_CSharp\\lesson1\\task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GeekBrains\\03_CSharp\\lesson1\\Task1\\Task1.csproj",
+        "projectUniqueName": "D:\\GeekBrains\\03_CSharp\\lesson1\\task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "D:\\GeekBrains\\03_CSharp\\lesson1\\Task1\\Task1.csproj",
+        "projectPath": "D:\\GeekBrains\\03_CSharp\\lesson1\\task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
-        "outputPath": "D:\\GeekBrains\\03_CSharp\\lesson1\\Task1\\obj\\",
+        "outputPath": "D:\\GeekBrains\\03_CSharp\\lesson1\\task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config"
