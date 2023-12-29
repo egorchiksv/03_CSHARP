@@ -15,3 +15,17 @@ if(firstNumber == secondNumber)
 {
     Console.Write($"Введенные числа равны `{firstNumber}`");
 }
+/*
+if(firstNumber > secondNumber)
+    {
+        Console.Write($"Первое число `{firstNumber}` больше чем второе число `{secondNumber}`");
+    }
+    if(firstNumber < secondNumber)
+    {
+        Console.Write($"Первое число `{firstNumber}` меньше чем второе число `{secondNumber}`");
+    }
+    if(firstNumber == secondNumber)
+    {
+        Console.Write($"Введенные числа равны `{firstNumber}`");
+    }
+*/
