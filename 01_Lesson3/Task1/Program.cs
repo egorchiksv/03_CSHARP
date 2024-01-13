@@ -1,4 +1,5 @@
-﻿double CalculateFormula(int a, int b, int c, int d)
+﻿// Вычислить занчение формулы a*b/(c+d), где a, b, c, d – некоторые целые чилса. Решение оформить в виде функции.
+double CalculateFormula(int a, int b, int c, int d)
 {
     double numenator = a * b;
     int denominator = c + d;
