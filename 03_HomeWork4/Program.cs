@@ -113,3 +113,10 @@
 //     ShowArray(array);
 //     GreateNumber(array);
 // }
+
+// [1,2,3]
+// int sum = 0;
+// for(int i = 0; i < arr.Length; i++)
+// {
+//     sum = sum*10+arr[i];
+// }
