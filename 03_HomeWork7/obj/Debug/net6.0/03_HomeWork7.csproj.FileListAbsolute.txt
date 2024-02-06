@@ -1,0 +1,15 @@
+D:\GeekBrains\03_CSharp\03_HomeWork7\obj\Debug\net6.0\03_HomeWork7.csproj.AssemblyReference.cache
+D:\GeekBrains\03_CSharp\03_HomeWork7\obj\Debug\net6.0\03_HomeWork7.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\03_CSharp\03_HomeWork7\obj\Debug\net6.0\03_HomeWork7.AssemblyInfoInputs.cache
+D:\GeekBrains\03_CSharp\03_HomeWork7\obj\Debug\net6.0\03_HomeWork7.AssemblyInfo.cs
+D:\GeekBrains\03_CSharp\03_HomeWork7\obj\Debug\net6.0\03_HomeWork7.csproj.CoreCompileInputs.cache
+D:\GeekBrains\03_CSharp\03_HomeWork7\bin\Debug\net6.0\03_HomeWork7.exe
+D:\GeekBrains\03_CSharp\03_HomeWork7\bin\Debug\net6.0\03_HomeWork7.deps.json
+D:\GeekBrains\03_CSharp\03_HomeWork7\bin\Debug\net6.0\03_HomeWork7.runtimeconfig.json
+D:\GeekBrains\03_CSharp\03_HomeWork7\bin\Debug\net6.0\03_HomeWork7.dll
+D:\GeekBrains\03_CSharp\03_HomeWork7\bin\Debug\net6.0\03_HomeWork7.pdb
+D:\GeekBrains\03_CSharp\03_HomeWork7\obj\Debug\net6.0\03_HomeWork7.dll
+D:\GeekBrains\03_CSharp\03_HomeWork7\obj\Debug\net6.0\refint\03_HomeWork7.dll
+D:\GeekBrains\03_CSharp\03_HomeWork7\obj\Debug\net6.0\03_HomeWork7.pdb
+D:\GeekBrains\03_CSharp\03_HomeWork7\obj\Debug\net6.0\03_HomeWork7.genruntimeconfig.cache
+D:\GeekBrains\03_CSharp\03_HomeWork7\obj\Debug\net6.0\ref\03_HomeWork7.dll
